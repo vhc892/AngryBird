@@ -1,0 +1,976 @@
+fileFormatVersion: 2
+guid: 319c7b2eceb3cfa45802a846d49d99e9
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PikPng.com_start-button-png_651478_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 671
+        width: 447
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a00371bb7f1d05144acff44838e17419
+      internalID: 245287890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikPng.com_start-button-png_651478_1
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 711
+        width: 250
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf4bb35feb8caad49a7ccfe4dd8ddca1
+      internalID: -2124449190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikPng.com_start-button-png_651478_2
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 711
+        width: 249
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f0a0ed054d140a46b9913f37bca6e4c
+      internalID: 1313159144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikPng.com_start-button-png_651478_3
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 684
+        width: 45
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c4b4ba839e8baa48b6131dfe4c17e59
+      internalID: 762068136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikPng.com_start-button-png_651478_4
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 416
+        width: 249
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbd67fb5f1593aa4eae36b0cbd02dfa8
+      internalID: 1915632059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikPng.com_start-button-png_651478_5
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 453
+        width: 325
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27cd9638edfcd9e47a1888cbb4136464
+      internalID: -1287481716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikPng.com_start-button-png_651478_6
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 558
+        width: 100
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 14, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dc30a84c2770924a832fd356a922756
+      internalID: 1367273517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikPng.com_start-button-png_651478_7
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 558
+        width: 104
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa64add82d810e94abf2e710a5f131a2
+      internalID: 865643480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikPng.com_start-button-png_651478_8
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 558
+        width: 104
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60de5f47e02b7864a95ab79083ed987c
+      internalID: 749280810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikPng.com_start-button-png_651478_9
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 587
+        width: 77
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12a58021024cc3542bdfb3930a92116e
+      internalID: -1454131713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikPng.com_start-button-png_651478_10
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 453
+        width: 101
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a56d53fa797aff84ea010a93cd520776
+      internalID: 1446940927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikPng.com_start-button-png_651478_11
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 453
+        width: 101
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51cee1072e79c7041a0e8bf4478cd3ab
+      internalID: -366026230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikPng.com_start-button-png_651478_12
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 455
+        width: 192
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5c0f2f2482d6cc4e833935d06b7d851
+      internalID: 1704299438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikPng.com_start-button-png_651478_13
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 161
+        width: 247
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c75914894c2530c4eb3ff5ef83b1d470
+      internalID: 1434983526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikPng.com_start-button-png_651478_14
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 340
+        width: 104
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c97f16338d8d4954a958258475769386
+      internalID: 422406769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikPng.com_start-button-png_651478_15
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 341
+        width: 106
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0009bfa57779aaa4b89db66c4be3d2de
+      internalID: -280150860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikPng.com_start-button-png_651478_16
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 342
+        width: 455
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abd99807d3617f64e80e77258f14f001
+      internalID: -1958572847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikPng.com_start-button-png_651478_17
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 378
+        width: 66
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8960b556268c8324bacdd86cae0b14b3
+      internalID: 319612175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikPng.com_start-button-png_651478_18
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 227
+        width: 104
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eb22265d9f62fe419d27d9b4acb0ddf
+      internalID: -786248698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikPng.com_start-button-png_651478_19
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 229
+        width: 105
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fc22a3e9f66bbc4c96506592d163dc9
+      internalID: -1589229753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikPng.com_start-button-png_651478_20
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 234
+        width: 100
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af7d92f1eaabe804a9e209e8d08497e1
+      internalID: 507249267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikPng.com_start-button-png_651478_21
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 259
+        width: 77
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2773f94c12ec044abc87f242fe391a1
+      internalID: 1767927530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikPng.com_start-button-png_651478_22
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 271
+        width: 68
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8ebad7b908d1ea4d909ea864ddc0b9a
+      internalID: -678474745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikPng.com_start-button-png_651478_23
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 271
+        width: 68
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: babc06fd1d0054645b75167ec091d921
+      internalID: -2075506757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikPng.com_start-button-png_651478_24
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 292
+        width: 59
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4424bf91223d5344ba5c920acc378a2c
+      internalID: 1468577853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikPng.com_start-button-png_651478_25
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 283
+        width: 58
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34abec604a5905c429899ae1b25f2ec9
+      internalID: 587178330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikPng.com_start-button-png_651478_26
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 114
+        width: 104
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3899d9dc0e065c7499d7d19f0183fff5
+      internalID: 2132897802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikPng.com_start-button-png_651478_27
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 118
+        width: 103
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcfe40f228f52cb45ad490d5c6fc0c9c
+      internalID: 752470500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikPng.com_start-button-png_651478_28
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 151
+        width: 77
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97bf7aaf50e80b44fa28d4b31ec47455
+      internalID: 740355874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikPng.com_start-button-png_651478_29
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 185
+        width: 67
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 424375cfa24587b4db2c5ac7a7ab74bd
+      internalID: 488929637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikPng.com_start-button-png_651478_30
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 40
+        width: 114
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c415a06316d3ee4eafe7b6f3af54bd4
+      internalID: 1078437217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikPng.com_start-button-png_651478_31
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 40
+        width: 114
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3901710b680cd64fbf295a49fa6fa34
+      internalID: -2026272798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikPng.com_start-button-png_651478_32
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 19
+        width: 97
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56880e9fc86f1dd4b832998e700a5f7d
+      internalID: 482017885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikPng.com_start-button-png_651478_33
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 68
+        width: 77
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2c61bf637a0ab74a851c7599c1789d9
+      internalID: -1690694489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikPng.com_start-button-png_651478_34
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 113
+        width: 72
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 070ad1e929eb04d4288419a7fd843f38
+      internalID: 1294464263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikPng.com_start-button-png_651478_35
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 1
+        width: 104
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 944142496b9aa7e46ad57368c8aa7da2
+      internalID: -474562431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikPng.com_start-button-png_651478_36
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 2
+        width: 66
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62f3c6d073797174eb43bbccb27734ec
+      internalID: -161812908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikPng.com_start-button-png_651478_37
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 41
+        width: 72
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dae90d496a0b49144847969869d62f98
+      internalID: -270509587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      PikPng.com_start-button-png_651478_0: 245287890
+      PikPng.com_start-button-png_651478_1: -2124449190
+      PikPng.com_start-button-png_651478_10: 1446940927
+      PikPng.com_start-button-png_651478_11: -366026230
+      PikPng.com_start-button-png_651478_12: 1704299438
+      PikPng.com_start-button-png_651478_13: 1434983526
+      PikPng.com_start-button-png_651478_14: 422406769
+      PikPng.com_start-button-png_651478_15: -280150860
+      PikPng.com_start-button-png_651478_16: -1958572847
+      PikPng.com_start-button-png_651478_17: 319612175
+      PikPng.com_start-button-png_651478_18: -786248698
+      PikPng.com_start-button-png_651478_19: -1589229753
+      PikPng.com_start-button-png_651478_2: 1313159144
+      PikPng.com_start-button-png_651478_20: 507249267
+      PikPng.com_start-button-png_651478_21: 1767927530
+      PikPng.com_start-button-png_651478_22: -678474745
+      PikPng.com_start-button-png_651478_23: -2075506757
+      PikPng.com_start-button-png_651478_24: 1468577853
+      PikPng.com_start-button-png_651478_25: 587178330
+      PikPng.com_start-button-png_651478_26: 2132897802
+      PikPng.com_start-button-png_651478_27: 752470500
+      PikPng.com_start-button-png_651478_28: 740355874
+      PikPng.com_start-button-png_651478_29: 488929637
+      PikPng.com_start-button-png_651478_3: 762068136
+      PikPng.com_start-button-png_651478_30: 1078437217
+      PikPng.com_start-button-png_651478_31: -2026272798
+      PikPng.com_start-button-png_651478_32: 482017885
+      PikPng.com_start-button-png_651478_33: -1690694489
+      PikPng.com_start-button-png_651478_34: 1294464263
+      PikPng.com_start-button-png_651478_35: -474562431
+      PikPng.com_start-button-png_651478_36: -161812908
+      PikPng.com_start-button-png_651478_37: -270509587
+      PikPng.com_start-button-png_651478_4: 1915632059
+      PikPng.com_start-button-png_651478_5: -1287481716
+      PikPng.com_start-button-png_651478_6: 1367273517
+      PikPng.com_start-button-png_651478_7: 865643480
+      PikPng.com_start-button-png_651478_8: 749280810
+      PikPng.com_start-button-png_651478_9: -1454131713
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
